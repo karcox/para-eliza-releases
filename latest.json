@@ -1,0 +1,8 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "sha256": "c28d515077e587094bc808562503a22cc9c5ad01daf937edb8eec21ea6872b9c",
+  "size": 1425675,
+  "notes": "Primera versión de Para Eliza.\n\n- Afinador guiado cuerda a cuerda para violín, guitarra y ukelele, y también viola, violonchelo, mandolina y bajo.\n- Modo libre para cualquier instrumento o voz.\n- Metrónomo, entrenador de entonación y acordes con el diapasón del violín.\n- Al terminar de afinar suena «Para Elisa».",
+  "apk": "app-1.apk"
+}
