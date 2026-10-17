@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "sha256": "5cc53e16fcbe9fcfd180b98fde764cf615046e4af83fa051e3ca34c26af90f87",
+  "size": 1601343,
+  "notes": "Metrónomo mejorado:\n\n- Subdivisiones: corcheas, tresillos y semicorcheas.\n- Acentos a medida: toca cada pulso para que suene fuerte, normal o en silencio.\n- Compases nuevos: 5/4, 7/8, 9/8 y 12/8.\n- Sonidos clic, madera y campana, con volumen y fuerza del acento.\n- Tempos guardados con nombre para las piezas que practicas.",
+  "apk": "app-2.apk"
+}
