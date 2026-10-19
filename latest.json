@@ -1,0 +1,8 @@
+{
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "sha256": "862d807519faa01031d7f629aeb261fb3d8e95844b434e7d4f8854babed8c7f6",
+  "size": 1601347,
+  "notes": "Entonación con la voz:\n\n- Nuevo modo Voz en Entonación: vale cantar la escala en cualquier octava.\n- La escala se coloca en una octava cómoda y se puede subir o bajar con − y +; la primera nota cantada la ajusta a tu voz.\n- Oye también voces graves (desde 70 Hz) y da consejos para la voz.",
+  "apk": "app-4.apk"
+}
